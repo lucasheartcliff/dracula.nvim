@@ -48,7 +48,7 @@ return {
    bright_white = "#F8F8F2",    -- Bright white
    menu = "#0E1419",            -- Menu background
    visual = "#253340",          -- Visual mode selection
-   gutter_fg = "#44475A",       -- Gutter foreground
+   gutter_fg = "#0E1419",       -- Gutter foreground
    nontext = "#424450",         -- Non-text characters
    white = "#FFFFFF",           -- White text
    black = "#191A21",           -- Black
