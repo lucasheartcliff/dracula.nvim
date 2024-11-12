@@ -30,7 +30,7 @@
 return {
    bg = "#0E1419",              -- Background color
    fg = "#F8F8F2",              -- Foreground color
-   selection = "#44475A",       -- Selection background
+   selection = "#253340",       -- Selection background
    comment = "#6272A4",         -- Comment color
    red = "#FF5555",             -- Red
    orange = "#FFB86C",          -- Orange
@@ -46,7 +46,7 @@ return {
    bright_magenta = "#DE559C",  -- Bright magenta
    bright_cyan = "#6AC5D3",     -- Bright cyan
    bright_white = "#F8F8F2",    -- Bright white
-   menu = "#3A434D",            -- Menu background
+   menu = "#0E1419",            -- Menu background
    visual = "#253340",          -- Visual mode selection
    gutter_fg = "#44475A",       -- Gutter foreground
    nontext = "#424450",         -- Non-text characters
