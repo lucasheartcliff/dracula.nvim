@@ -319,8 +319,8 @@ local function setup(configs)
       NvimTreeEndOfBuffer = endOfBuffer,
 
       -- NeoTree
-      NeoTreeNormal = { fg = colors.fg, bg = colors.menu, },
-      NeoTreeNormalNC = { fg = colors.fg, bg = colors.menu, },
+      NeoTreeNormal = { fg = colors.fg, bg = colors.bg, },
+      NeoTreeNormalNC = { fg = colors.fg, bg = colors.bg, },
       NeoTreeDirectoryName = { fg = colors.fg },
       NeoTreeGitUnstaged = { fg = colors.bright_magenta },
       NeoTreeGitModified = { fg = colors.bright_magenta },

@@ -46,10 +46,10 @@ return {
    bright_magenta = "#DE559C",  -- Bright magenta
    bright_cyan = "#6AC5D3",     -- Bright cyan
    bright_white = "#F8F8F2",    -- Bright white
-   menu = "#0E1419",            -- Menu background
+   menu = "#3A434D",            -- Menu background
    visual = "#253340",          -- Visual mode selection
    gutter_fg = "#44475A",       -- Gutter foreground
-   nontext = "#0E1419",         -- Non-text characters
+   nontext = "#424450",         -- Non-text characters
    white = "#FFFFFF",           -- White text
    black = "#191A21",           -- Black
 }
